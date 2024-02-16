@@ -468,7 +468,7 @@ export const projects = [
     tags: ["Html", "Css","javascript","react"],
     category: "Frontend ",
     github: "https://github.com/Omkarcod/MyPortfolio",
-    webapp: "",
+    webapp: "https://my-portfolio-psi-dusky.vercel.app/",
   }, 
 ];
 
