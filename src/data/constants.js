@@ -456,25 +456,20 @@ export const projects = [
     github: "https://github.com/Omkarcod/Pomodrotimer",
     webapp: "https://pomodrotimer-two.vercel.app/login",
   },
-//  {
-//     id: 8,
-//     title: "Banking System ",
-//     date: "",
-//     description:
-//       ".",
-//     image:
-//       "",
-//     tags: [""],
-//     category: "Java ",
-//     github: "",
-//     webapp: "",
-//   }, 
+ {
+    id: 8,
+    title: "MyPortFolio ",
+    date: "",
+    description:
+      
+"Welcome to my portfolio! I showcase a variety of MERN stack projects alongside my educational background and professional experience. These projects, ranging from web apps to APIs, highlight my proficiency in MongoDB, Express.js, React.js, and Node.js. I've gained valuable skills in software development. Explore my portfolio to see how I bring dynamic and interactive web applications to life, from start to finish.",
+    image:
+      "https://github.com/Omkarcod/MyPortfolio/blob/master/src/Myportfolio.png?raw=true",
+    tags: ["Html", "Css","javascript","react"],
+    category: "Frontend ",
+    github: "https://github.com/Omkarcod/MyPortfolio",
+    webapp: "",
+  }, 
 ];
 
-// export const TimeLineData = [
-//   { year: 2017, text: "Started my journey" },
-//   { year: 2018, text: "Worked as a freelance developer" },
-//   { year: 2019, text: "Founded JavaScript Mastery" },
-//   { year: 2020, text: "Shared my projects with the world" },
-//   { year: 2021, text: "Started my own platform" },
-// ];
+
